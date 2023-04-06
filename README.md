@@ -12,7 +12,7 @@ Once installed, run
 	sudo apt update && upgrade
   
 ## Usage
-`dima` has multiple option. They are being added as the releases. Sometimes, you may need to view them. That's why we implemented `-h` as the help command that lists commands and some intructions to the options.
+`dima` has multiple options. They are being added as the releases. Sometimes, you may need to view them. That's why we implemented `-h` as the help command that lists commands and some intructions to the options.
 
 To view them, run
 
